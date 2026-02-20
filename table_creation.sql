@@ -1,0 +1,23 @@
+CREATE TABLE superstore_raw (
+  `Row ID` INT,
+  `Order ID` VARCHAR(50),
+  `Order Date` VARCHAR(50),
+  `Ship Date` VARCHAR(50),
+  `Ship Mode` VARCHAR(50),
+  `Customer ID` VARCHAR(50),
+  `Customer Name` VARCHAR(150),
+  `Segment` VARCHAR(50),
+  `Country` VARCHAR(50),
+  `City` VARCHAR(50),
+  `State` VARCHAR(50),
+  `Postal Code` VARCHAR(20),
+  `Region` VARCHAR(50),
+  `Product ID` VARCHAR(50),
+  `Category` VARCHAR(50),
+  `Sub-Category` VARCHAR(50),
+  `Product Name` VARCHAR(255),
+  `Sales` DECIMAL(12,2),
+  `Quantity` INT,
+  `Discount` DECIMAL(5,2),
+  `Profit` DECIMAL(12,2)
+);
