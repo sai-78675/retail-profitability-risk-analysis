@@ -93,9 +93,11 @@ Elevated discount levels correlate strongly with profit erosion.
 Loss patterns indicate structural pricing inefficiencies rather than isolated regional issues.
 
 📷 Dashboard Preview
-Executive Overview
 
+Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
 Diagnostic Page
+![Diagnostics](screenshots/diagnostics.png)
 
 📁 Repository Structure
 
