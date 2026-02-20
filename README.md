@@ -97,7 +97,7 @@ Loss patterns indicate structural pricing inefficiencies rather than isolated re
 Executive Overview
 ![Executive Overview](screenshots/executive_overview.png)
 Diagnostic Page
-![Diagnostic](screenshots/Diagnostic.png)
+![Diagnostics](screenshots/Diagnostics.png)
 
 📁 Repository Structure
 
